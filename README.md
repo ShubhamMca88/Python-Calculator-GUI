@@ -5,7 +5,7 @@
         </samp>
 </h1>
 <p align="center">
-        <samp> Hello, I am a Full Stack Python web developer based in Meerut, India. I specialize in Python programming and have a strong grasp of Django web development. Continuously enhancing my skills in web development, I bring a varied skill set to the table, aiming to make innovative contributions to each project.
+        <samp> Hi, I'm a Full stack python web developer from Meerut , India. Python Programing and proficient knowledge of Django Web development , I am constantly expanding my expertise in web development. With a diverse skill set, I aim to contribute innovatively to every project.
         </samp>
 </p>
 
@@ -19,38 +19,12 @@
  <a href="https://www.instagram.com/su.g.am?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a> 
-  <!--<a href="#" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC?style=for-the-badge&logo=medium&logoColor=white"/>
- </a>
-</p>
-<br />
-
-<!-- About Section -->
- # Connect me 
- 
-<p>
-
- ✌️ &emsp; Enjoy to do programming and love to see the output <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: shubhamkumar.mca88@gmail.com<br/><br/>
-</p>
 
 ## Use To Code
 
-![Nodejs](https://img.shields.io/badge/Python-3C873A?style=for-the-badge&labelColor&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-61D?style=for-the-badge&labelColor&logo=django&logoColor=)
-![Javascript](https://img.shields.io/badge/Javascript-B51B75?style=for-the-badge&labelColor&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-9195F6?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3C873A?style=for-the-badge&labelColor&logo=python&logoColor=white)
 
 ## Some Code Repo...
-
-[![Shubham](https://github-readme-stats.vercel.app/api/pin/?username=shubhamMca88&repo=Shubham&border_color=7F3&bg_color=0D1117&title_color=C9D1D9&text_color=8B9E&icon_color=7F3FB)](https://github.com/ShubhamMca88/Shubham.git)
 
 [![Shubham 1](https://github-readme-stats.vercel.app/api/pin/?username=shubhamMca88&repo=Portfolio-Frontend-template-1&border_color=7F3&bg_color=0D1117&title_color=C9D1D9&text_color=8B9E&icon_color=7F3FB)](https://github.com/ShubhamMca88/Portfolio-Frontend-template-1.git)
 
@@ -69,5 +43,5 @@
 
 # Some Screen shot
 <p>
-  <img src="app\static\img\1.png" alt="1 view">&nbsp;
+  <img src="gui.png" alt="1 view">&nbsp;
  </p> 
